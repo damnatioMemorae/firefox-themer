@@ -1,0 +1,13 @@
+{
+        "manifest_version": 2,
+        "name": "Firefox Themer",
+        "version": "1.0",
+        "description": "Switch between installed themes without restarting Firefox",
+        "permissions": ["management", "theme"],
+        "browser_action": {
+                "default_popup": "popup.html"
+        },
+        "background": {
+                "scripts": ["background.js"]
+        }
+}
