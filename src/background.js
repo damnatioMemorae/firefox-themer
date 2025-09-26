@@ -1,1 +1,1 @@
-console.log("Theme Switcher Extension loaded.");
+console.log("Themer Extension loaded.")
