@@ -1,1 +1,1 @@
-console.log("Firefox Themer Extension loaded")
+console.log("Themer Extension loaded")
